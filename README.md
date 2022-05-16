@@ -1,4 +1,3 @@
-# 9BDI1113
 package sanmoku;
 
 import java.io.BufferedReader;
